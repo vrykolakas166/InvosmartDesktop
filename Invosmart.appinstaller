@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-  Version="1.0.0.0"
-  Uri="https://github.com/vrykolakas166/InvosmartDesktop/Invosmart.appinstaller" xmlns="http://schemas.microsoft.com/appx/appinstaller/2021">
+  Version="1.0.1.0"
+  Uri="https://vrykolakas166.github.io/InvosmartDesktop/Invosmart.appinstaller" xmlns="http://schemas.microsoft.com/appx/appinstaller/2021">
   <MainPackage
     Name="15cb3644-fb75-4320-8fde-64c5ae4b342f"
     Publisher="CN=WolfyInc"
     Version="1.0.1.0"
     ProcessorArchitecture="x64"
-    Uri="https://github.com/vrykolakas166/InvosmartDesktop/Invosmart_1.0.1.0_Test/Invosmart_1.0.1.0_x64.msix" />
+    Uri="https://vrykolakas166.github.io/InvosmartDesktop/Invosmart_1.0.1.0_Test/Invosmart_1.0.1.0_x64.msix" />
   <Dependencies>
     <Package
       Version="6000.266.2241.0"
-      Uri="https://github.com/vrykolakas166/InvosmartDesktop/Invosmart_1.0.1.0_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.6.msix"
+      Uri="https://vrykolakas166.github.io/InvosmartDesktop/Invosmart_1.0.1.0_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.6.msix"
       Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
       ProcessorArchitecture="x64"
       Name="Microsoft.WindowsAppRuntime.1.6" />
