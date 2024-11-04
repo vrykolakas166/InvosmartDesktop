@@ -2,11 +2,12 @@
 <AppInstaller
 	Uri="https://vrykolakas166.github.io/InvosmartDesktop/Invosmart.appinstaller"
 	Version="2.0.5.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2021">
-	<MainBundle
+	<MainPackage
 		Name="585f2e99-a9a0-4fcd-9b41-5293931db739"
 		Version="2.0.5.0"
 		Publisher="CN=WolfyInc"
-		Uri="https://vrykolakas166.github.io/InvosmartDesktop/Invosmart_2.0.5.0_Test/Invosmart_2.0.5.0_x64.msixbundle" />
+		Uri="https://vrykolakas166.github.io/InvosmartDesktop/Invosmart_2.0.5.0_Test/Invosmart_2.0.5.0_x64.msix"
+		ProcessorArchitecture="x64" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.WindowsAppRuntime.1.6"
