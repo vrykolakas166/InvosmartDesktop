@@ -6,7 +6,7 @@
 		Name="585f2e99-a9a0-4fcd-9b41-5293931db739"
 		Version="1.0.0.0"
 		Publisher="CN=WolfyInc"
-		Uri="https://vrykolakas166.github.io/InvosmartDesktop/Invosmart_1.0.0.0_Test/Invosmart_2.0.5.0_x64.msix"
+		Uri="https://vrykolakas166.github.io/InvosmartDesktop/Invosmart_1.0.0.0_Test/Invosmart_1.0.0.0_x64.msix"
 		ProcessorArchitecture="x64" />
 	<Dependencies>
 		<Package
