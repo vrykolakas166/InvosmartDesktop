@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.98.0",
-  "Date": "2024-11-15",
+  "Version": "1.0.144.0",
+  "Date": "2024-11-18",
   "Author": "Phuc Pham Hong",
   "Notes": "Updated version before build."
 }
